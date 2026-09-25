@@ -1,2 +1,1 @@
-# -Test-tasks
-Это тестовое задание по продуктовой/data-аналитике: расчёт метрик (MAU, DAU, retention, конверсия, NPS, ARPU), интерпретация A/B-тестов, статистика (p-value, дисперсия, квартили) и выбор подходящих визуализаций.
+This is a test assignment in product/data analytics: calculating metrics (MAU, DAU, retention, conversion rate, NPS, ARPU), interpreting A/B test results, statistics (p-value, variance, quartiles), and selecting appropriate visualizations.
